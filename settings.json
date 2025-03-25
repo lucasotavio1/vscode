@@ -1,5 +1,4 @@
 {
-    "window.zoomLevel": 1,
     "window.commandCenter": true,
     "window.autoDetectColorScheme": true,
     "symbols.hidesExplorerArrows": false,
@@ -44,4 +43,5 @@
     "security.workspace.trust.untrustedFiles": "newWindow",
     "window.titleBarStyle": "custom",
     "explorer.fileNesting.enabled": true,
+    "window.zoomLevel": 2
 }
