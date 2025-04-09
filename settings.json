@@ -1,9 +1,10 @@
 {
+    "window.zoomLevel": 2,
     "window.commandCenter": true,
     "window.autoDetectColorScheme": true,
     "symbols.hidesExplorerArrows": false,
     "workbench.colorTheme": "poimandres",
-    "workbench.preferredDarkColorTheme": "poimandres",
+    "workbench.preferredDarkColorTheme": "poimandres-noitalics",
     "workbench.preferredLightColorTheme": "Min Light",
     "workbench.productIconTheme": "fluent-icons",
     "workbench.iconTheme": "symbols",
@@ -42,6 +43,5 @@
     "explorer.confirmDragAndDrop": false,
     "security.workspace.trust.untrustedFiles": "newWindow",
     "window.titleBarStyle": "custom",
-    "explorer.fileNesting.enabled": true,
-    "window.zoomLevel": 2
+    "explorer.fileNesting.enabled": true
 }
