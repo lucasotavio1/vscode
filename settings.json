@@ -1,5 +1,5 @@
 {
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1.5,
     "window.commandCenter": true,
     "window.autoDetectColorScheme": true,
     "symbols.hidesExplorerArrows": false,
@@ -9,6 +9,7 @@
     "workbench.productIconTheme": "fluent-icons",
     "workbench.iconTheme": "symbols",
     "workbench.layoutControl.enabled": false,
+    "workbench.navigationControl.enabled": false,
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
@@ -36,6 +37,7 @@
     "workbench.activityBar.location": "hidden",
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
+    "editor.renderWhitespace": "none",
     "workbench.statusBar.visible": false,
     "git.openRepositoryInParentFolders": "always",
     "git.enableSmartCommit": true,
